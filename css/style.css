@@ -140,6 +140,7 @@ Media Queries
         background-size:100% 50% !important;
         background-position:bottom !important;
         background-attachment:unset !important;
+        height: 56vh !important;
     }
     .banner-form{
         margin-top:20px;
@@ -308,4 +309,4 @@ textarea, input {
     background: #00CCCC;
 }
 
-#first .smashinglogo {background: url(../img/pic3.png)  50% 100px no-repeat fixed;height: 56vh;}
+#first .smashinglogo {background: url(../img/pic3.png)  50% 100px no-repeat fixed;height: 70vh;}
